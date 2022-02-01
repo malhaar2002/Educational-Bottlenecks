@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import csv
 
 #Choose database file - dindori.csv, bhopal.csv or chhatarpur.csv
-database = "csv/dindori.csv"
+database = "csv/chhatarpur.csv"
 
 #Import content from database
 content = []
